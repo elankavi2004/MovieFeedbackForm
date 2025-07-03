@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/elankavi2004.io/MovieFeedbackForm/static/css/main.a1aa925e.css",
-    "main.js": "/elankavi2004.io/MovieFeedbackForm/static/js/main.5b17dbda.js",
-    "static/js/453.69485634.chunk.js": "/elankavi2004.io/MovieFeedbackForm/static/js/453.69485634.chunk.js",
-    "index.html": "/elankavi2004.io/MovieFeedbackForm/index.html",
-    "main.a1aa925e.css.map": "/elankavi2004.io/MovieFeedbackForm/static/css/main.a1aa925e.css.map",
-    "main.5b17dbda.js.map": "/elankavi2004.io/MovieFeedbackForm/static/js/main.5b17dbda.js.map",
-    "453.69485634.chunk.js.map": "/elankavi2004.io/MovieFeedbackForm/static/js/453.69485634.chunk.js.map"
+    "main.css": "/MovieFeedbackForm/static/css/main.a1aa925e.css",
+    "main.js": "/MovieFeedbackForm/static/js/main.f3c6f3a2.js",
+    "static/js/453.69485634.chunk.js": "/MovieFeedbackForm/static/js/453.69485634.chunk.js",
+    "index.html": "/MovieFeedbackForm/index.html",
+    "main.a1aa925e.css.map": "/MovieFeedbackForm/static/css/main.a1aa925e.css.map",
+    "main.f3c6f3a2.js.map": "/MovieFeedbackForm/static/js/main.f3c6f3a2.js.map",
+    "453.69485634.chunk.js.map": "/MovieFeedbackForm/static/js/453.69485634.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1aa925e.css",
-    "static/js/main.5b17dbda.js"
+    "static/js/main.f3c6f3a2.js"
   ]
 }
